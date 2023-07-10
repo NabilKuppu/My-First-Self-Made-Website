@@ -115,3 +115,40 @@ body {
 .checkmark {
   color: #00ff00; /* Set the color to green */
 }
+/* Begining Of Section-02 */
+.my-plans-section {
+  margin-top: 120px;
+}
+.my-plans-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.my-plans-title {
+  text-align: center;
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0 auto 55px;
+}
+.my-plan-img {
+  margin-top: 0px;
+  width: 92.958px;
+  height: 92.958px;
+  margin-bottom: 18px;
+}
+.plan-title {
+  margin-top: 0px;
+  color: #151414;
+  text-align: center;
+  font-size: 30px;
+  padding-left: 15px;
+  margin-left: -85px;
+}
+.plan-discription {
+  color: #737272;
+  text-align: center;
+  font-size: 25px;
+  margin-left: -35px;
+}
+/* End Of Section-02 */
